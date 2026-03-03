@@ -1,0 +1,47 @@
+This data shows the data of each post made on instagram during it can be reel, image, caraousel, etc. It also shows that
+what media_type post has been made and what was its content category, also it shows the source of the  traffic reach,
+it also shows when the post was made on which date and what time and which day.
+How many comments, shares, saves, reach, impressions, engagement_rate and follower_gained,  it got. This also shows that 
+was the post got viral or has it made medium, high, or low impact.
+
+Data Cleaning:
+1. Check for null values.
+2. Check for total rows and columns
+3. check for duplicate values
+4. Check for datatypes.
+
+univariate analysis:
+1. Count to total categories in the account_type column
+2. Determine mean of the follower_count varaible
+3. Count the total categoires in media_type
+4. Count total categories in content_category
+5. Count total categories in traffic_source
+6. Check for average likes, comments, shares, saves, reach, impressions, engagement_rate
+7. Check for average followers_gained
+8. Count total categories in performance_bucket_label
+
+Understanding the data:
+This data shows the data of each post made on instagram during it can be reel, image, caraousel, etc. It also shows that
+what media_type post has been made and what was its content category, also it shows the source of the  traffic reach,
+it also shows when the post was made on which date and what time and which day.
+How many comments, shares, saves, reach, impressions, engagement_rate and follower_gained,  it got. This also shows that 
+was the post got viral or has it made medium, high, or low impact.
+
+Feature Engineering
+1. Correct the data types like date_time.
+2. Can divide the date_time column to morning, afternoon, evening, and night.
+
+Bivariate Analysis
+1. Check the correlations between the columns.
+2. Which account_type has more follower_count.
+3. We can check which media_type is mostly posted
+4. Which media_type has mostly posted according to account_type. (total_count)
+5. Which media_type has mostly posted according to content_category. (total_count)
+6. Which content_category has more reach, content_category has more reach, impressions, like, engagement_rate, performance_bucket_label.
+
+Multivariate Analysis
+1. We can check if the post get viral, how many average likes, comments, shares, saves, impressions, engagement_rate it has got. we can check them seperately.
+2. Similarly for High, medium, low.
+3. We can check if the post got viral, so what was the average post_date_time.
+4. Similarly for High, medium and low.
+In the end the most important thing that if a post got viral, which variable has most impact on it to get the post viral, similary high, medium and low.

@@ -1,0 +1,52 @@
+============================================================
+INSTAGRAM PERFORMANCE ANALYSIS SUMMARY
+============================================================
+
+OVERALL METRICS
+----------------------------------------
+Total Posts: 29,999
+Date Range: 2024-11-19 to 2025-11-19
+Total Engagement: 10,593,229
+Avg Engagement Rate: 0.04%
+Total Followers Gained: 15,064,082
+
+BEST PERFORMING
+----------------------------------------
+Media Type: carousel
+Content Category: Beauty
+Traffic Source: Explore
+Best Day: Monday
+Best Hour: 0:00
+Hashtag Count: 21+
+Caption Length: Short (50-100)
+
+ACCOUNT TYPE COMPARISON
+----------------------------------------
+Brand: 0.04% engagement
+Creator: 0.04% engagement
+
+MEDIA TYPE PERFORMANCE
+----------------------------------------
+carousel: 0.04% engagement (10627 posts)
+image: 0.04% engagement (11927 posts)
+reel: 0.04% engagement (7445 posts)
+
+TOP 5 CONTENT CATEGORIES
+----------------------------------------
+Beauty                   : 0.04% (2953.0 posts)
+Comedy                   : 0.04% (2950.0 posts)
+Fashion                  : 0.04% (3034.0 posts)
+Fitness                  : 0.04% (3004.0 posts)
+Food                     : 0.04% (3010.0 posts)
+
+VIRAL POST CHARACTERISTICS
+----------------------------------------
+Count: 7500 posts
+Top Media: image
+Top Category: Fashion
+Avg Hashtags: 8
+Avg Caption: 120 chars
+CTA Usage: 34.5%
+
+============================================================
+Analysis generated on: 2026-03-03 10:43:45
